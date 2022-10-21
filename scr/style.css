@@ -1,4 +1,12 @@
 .main-text {
   font-size: 20px;
-  
+}
+
+.head {
+  font-size: 50px;
+}
+
+body {
+  background-color: rgb(252, 218, 228);
+  text-align: center;
 }
