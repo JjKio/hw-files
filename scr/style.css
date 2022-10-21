@@ -2,6 +2,10 @@
   font-size: 20px;
 }
 
+h1 {
+  padding-top: 30px;
+}
+
 .head {
   font-size: 50px;
 }
@@ -9,4 +13,8 @@
 body {
   background-color: rgb(252, 218, 228);
   text-align: center;
+}
+
+.contact-info {
+  font-size: 30px;
 }
